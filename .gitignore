@@ -1,0 +1,57 @@
+# Ignore file for Visual Studio 2010
+
+# use glob syntax 
+syntax: glob
+
+target/
+
+# Ignore Visual Studio 2010 files
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.scc
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+!*.cache/
+*.ilk
+*.log
+*.lib
+*.sbr
+*.dbmdl
+*.jfm
+[Bb]in/
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+[Bb]uild/
+[Pp]ublish/
+[Pp]ackages/
+PrecompiledWeb/
+_UpgradeReport_Files/
+UpgradeLog.XML
+*.orig
+APIDocs/Help/
+*.precompile.source
+*.precompile.output
+.vs/
+WebAdministrator/WebAdministrator/WebAdministrator.vbproj.rej
+.git
+[Nn]ode_modules
+
+/.idea/.idea.LMS
+/Student/scripts/Einstein/.idea
+/UpSmart/.idea
